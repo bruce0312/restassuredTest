@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9252134f-267f-40a2-bd1d-ba307c618b57" name="Default" comment="">
+    <list default="true" id="9252134f-267f-40a2-bd1d-ba307c618b57" name="Default" comment="testcase 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/suite/DemoTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/suite/DemoTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testinterface.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,29 +33,16 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="testinterface" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-460" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="surefire-report.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/site/surefire-report.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+            <state relative-caret-position="437">
+              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -65,22 +50,48 @@
       <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="76">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="GetBaidu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testcasedemo/GetBaidu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-995">
-              <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            <state relative-caret-position="380">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-report.xml.fxml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/target/surefire-reports/test-report.xml.fxml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,7 +100,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/junitdemo/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testcasedemo/GetBaidu.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/target/surefire-reports/test-report.xml.fxml" />
       </list>
     </option>
   </component>
@@ -100,6 +113,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Program Files\JetBrains\IntelliJ IDEA\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -117,11 +136,14 @@
       <select />
     </treeState>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="406" />
-    <option name="y" value="97" />
-    <option name="width" value="1301" />
-    <option name="height" value="909" />
+    <option name="x" value="125" />
+    <option name="y" value="35" />
+    <option name="width" value="1740" />
+    <option name="height" value="1244" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,59 +151,65 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="restassuredTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassuredTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restassuredTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassuredTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restassuredTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassuredTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restassuredTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassuredTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restassuredTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassuredTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="junitdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restassuredTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassuredTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="suite" type="462c0819:PsiDirectoryNode" />
+              <item name="testcasedemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="restassuredTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restassuredTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testinterface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testinterface" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,10 +218,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test2">
+  <component name="RunManager" selected="Android JUnit.Test1">
     <configuration name="Test1" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinterface" />
       <extension name="coverage">
@@ -231,24 +259,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="junitdemo.Test1" />
-      <module name="testinterface" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="junitdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="junitdemo.Test3" />
+    <configuration name="GetBaidu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testcasedemo.GetBaidu" />
       <module name="testinterface" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="junitdemo.*" />
+          <option name="PATTERN" value="testcasedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,20 +273,20 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetBaidu.getBaidu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testinterface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="junitdemo.*" />
+          <option name="PATTERN" value="testcasedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="junitdemo" />
-      <option name="MAIN_CLASS_NAME" value="junitdemo.Test1" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="testcasedemo" />
+      <option name="MAIN_CLASS_NAME" value="testcasedemo.GetBaidu" />
+      <option name="METHOD_NAME" value="getBaidu" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -318,6 +335,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="junitdemo in testinterface" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="junitdemo" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="test" />
       <option name="VM_PARAMETERS" />
@@ -351,19 +391,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.Test3" />
       <item itemvalue="Android JUnit.Test1" />
-      <item itemvalue="JUnit.Test1" />
       <item itemvalue="JUnit.Test2" />
+      <item itemvalue="JUnit.junitdemo in testinterface" />
+      <item itemvalue="Application.GetBaidu" />
+      <item itemvalue="JUnit.GetBaidu.getBaidu" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test2" />
-        <item itemvalue="JUnit.Test1" />
         <item itemvalue="Android JUnit.Test1" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test3" />
+        <item itemvalue="JUnit.junitdemo in testinterface" />
+        <item itemvalue="JUnit.GetBaidu.getBaidu" />
+        <item itemvalue="Application.GetBaidu" />
+        <item itemvalue="JUnit.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -380,31 +420,21 @@
       <workItem from="1524973935618" duration="2465000" />
       <workItem from="1524976706391" duration="236000" />
       <workItem from="1524976944519" duration="2712000" />
+      <workItem from="1525078175449" duration="2253000" />
+      <workItem from="1525080443974" duration="1176000" />
+      <workItem from="1525081633692" duration="2222000" />
     </task>
+    <task id="LOCAL-00001" summary="testcase 1">
+      <created>1525079148803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525079148803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test1_fun1 - 2018.04.29 at 12h 45m 11s.xml">
-      <configuration name="Test1.fun1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test1_fun2 - 2018.04.29 at 12h 45m 15s.xml">
-      <configuration name="Test1.fun2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoTestSuite - 2018.04.29 at 12h 45m 56s.xml">
-      <configuration name="DemoTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="junitdemo_in_testinterface - 2018.04.29 at 12h 45m 59s.xml">
-      <configuration name="junitdemo in testinterface" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test4 - 2018.04.29 at 12h 46m 11s.xml">
-      <configuration name="Test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test4 - 2018.04.29 at 12h 46m 19s.xml">
-      <configuration name="Test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test1 - 2018.04.29 at 12h 47m 56s.xml">
-      <configuration name="Test1" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="Test1 - 2018.04.29 at 12h 48m 00s.xml">
       <configuration name="Test1" configurationId="AndroidJUnit" />
     </history-entry>
@@ -414,45 +444,76 @@
     <history-entry file="Test2 - 2018.04.29 at 12h 48m 21s.xml">
       <configuration name="Test2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Test1 - 2018.04.30 at 16h 50m 34s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="junitdemo_in_testinterface - 2018.04.30 at 16h 50m 39s.xml">
+      <configuration name="junitdemo in testinterface" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetBaidu_getBaidu - 2018.04.30 at 17h 04m 05s.xml">
+      <configuration name="GetBaidu.getBaidu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetBaidu_getBaidu - 2018.04.30 at 17h 07m 40s.xml">
+      <configuration name="GetBaidu.getBaidu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="junitdemo_in_testinterface - 2018.04.30 at 17h 35m 48s.xml">
+      <configuration name="junitdemo in testinterface" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2018.04.30 at 17h 53m 13s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2018.04.30 at 18h 10m 51s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5413000" />
+    <option name="totallyTimeSpent" value="11064000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="406" y="97" width="1301" height="909" extended-state="0" />
+    <frame x="101" y="29" width="1403" height="1003" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50044054" side_tool="true" weight="0.32917705" />
-      <window_info anchor="right" id="Maven Projects" order="1" sideWeight="0.49827588" visible="true" weight="0.14535345" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35193452" side_tool="true" weight="0.35953757" />
+      <window_info anchor="right" id="Maven Projects" order="1" sideWeight="0.49827588" visible="true" weight="0.14423792" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="7" weight="0.32951543" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.23976173" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.2489083" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4996277" weight="0.3298611" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49955946" weight="0.32917705" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.6339286" weight="0.32947975" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49955946" weight="0.3401222" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917705" />
-      <window_info anchor="right" id="Coverage" sideWeight="0.5017241" side_tool="true" visible="true" weight="0.14535345" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2857143" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23272438" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4988831" weight="0.3287037" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.33833718" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.64806545" visible="true" weight="0.3591224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.64467007" visible="true" weight="0.24684015" />
+      <window_info id="Web" order="2" sideWeight="0.35532996" side_tool="true" weight="0.24330357" />
+      <window_info id="Learn" order="3" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50080776" side_tool="true" weight="0.23976173" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5017241" side_tool="true" visible="true" weight="0.14535345" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,6 +521,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testcase 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="testcase 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -471,6 +536,89 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testcasedemo/GetBaidu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testcasedemo/GetBaidu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -555,43 +703,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-junitdemo.Test1.xml" />
+    <entry file="file://$PROJECT_DIR$/target/site/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/site/surefire-report.html" />
     <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="76">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-junitdemo.Test1.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testcasedemo/GetBaidu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-797" />
+        <state relative-caret-position="380">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/junitdemo/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-460" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/site/surefire-report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        <state relative-caret-position="437">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-995">
-          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="254">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/test-report.xml.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -652,7 +800,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -660,7 +807,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.2.3</last-edited>
+          <last-edited>Maven: org.apache.httpcomponents:httpmime:4.5.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
